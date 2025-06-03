@@ -8,7 +8,7 @@ Data scientist in training.
 
 ## 🛠 Known languages:
 
-### Advanced
+### Advanced:
 <ul>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
@@ -57,8 +57,21 @@ Data scientist in training.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-### Basic
+### Intermediate:
 
+<ul>
+  <li>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+         alt="Java" width="20" height="20" style="vertical-align: middle;"/>
+    <span style="margin-left: 10px;">Java</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+         alt="Bash" width="20" height="20" style="vertical-align: middle;"/>
+    <span style="margin-left: 10px;">Bash</span>
+  </li>
+  
+</ul>
+
+### Basic:
 
 <ul>
   <li>
@@ -67,9 +80,9 @@ Data scientist in training.
     <span style="margin-left: 10px;">HTML</span>
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-         alt="CSS" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 10px;">CSS</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+         alt="C" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="margin-left: 10px;">C</span>
   </li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
