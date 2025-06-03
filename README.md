@@ -22,17 +22,16 @@ Data scientist in training.
 </p>
 
 ### Basic
-<p align="left">
-  <!-- Puedes cambiar los colores (color=xxxxxx) y tamaño (size=xx) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" size=1/>
-  
-</p>
+
 
 <ul>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
          alt="HTML" width="30" height="30" style="vertical-align: middle;"/>
     <span style="margin-left: 10px;">HTML</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+         alt="CSS" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="margin-left: 10px;">CSS</span>
   </li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
