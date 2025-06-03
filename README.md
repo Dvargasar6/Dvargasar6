@@ -36,17 +36,12 @@ Data scientist in training.
          alt="SciPy Logo" width="20" height="20" style="vertical-align: middle;">
       <span style="margin-left: 10px;">SciPy</span>
       </li>
-      <li>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sympy_logo.svg" 
-         alt="SymPy Logo" width="20" height="20" style="vertical-align: middle;">
-        <span style="margin-left: 10px;">SymPy</span>
-      </li>
     </ul>
   </li>
   <li>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-         alt="CSS" width="30" height="30" style="vertical-align: middle;"/>
-    <span style="margin-left: 10px;">CSS</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
+         alt="LaTeX" width="20" height="20" style="vertical-align: middle;"/>
+    <span style="margin-left: 10px;">LaTeX</span>
   </li>
 </ul>
 
