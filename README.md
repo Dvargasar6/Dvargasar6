@@ -17,8 +17,28 @@ Data scientist in training.
     <ul>
       <li>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
-         alt="CSS" width="30" height="30" style="vertical-align: middle;"/>
+         alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
       <span style="margin-left: 10px;">Numpy</span>
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+         alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
+      <span style="margin-left: 10px;">Pandas</span>
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" 
+         alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
+      <span style="margin-left: 10px;">Matplotlib</span>
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" 
+         alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
+      <span style="margin-left: 10px;">Scipy</span>
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sympy/sympy-original.svg" 
+         alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
+      <span style="margin-left: 10px;">Sympy</span>
       </li>
     </ul>
   </li>
