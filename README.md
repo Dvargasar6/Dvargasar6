@@ -70,17 +70,17 @@ Data scientist in training.
 <ul>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-         alt="HTML" width="30" height="30" style="vertical-align: middle;"/>
+         alt="HTML" width="20" height="20" style="vertical-align: middle;"/>
     <span style="margin-left: 10px;">HTML</span>
   </li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-         alt="C" width="30" height="30" style="vertical-align: middle;"/>
+         alt="C" width="20" height="20" style="vertical-align: middle;"/>
     <span style="margin-left: 10px;">C</span>
   </li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-         alt="JavaScript" width="30" height="30" style="vertical-align: middle;"/>
+         alt="JavaScript" width="20" height="20" style="vertical-align: middle;"/>
     <span style="margin-left: 10px;">JavaScript</span>
   </li>
 </ul>
