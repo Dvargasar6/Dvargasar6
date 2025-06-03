@@ -15,6 +15,7 @@ Data scientist in training.
          alt="python" width="20" height="20" style="vertical-align: middle;"/>
     <span style="margin-left: 10px;">Python</span>
     <ul>
+      <li></li> 
       <li>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
          alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
@@ -31,8 +32,9 @@ Data scientist in training.
       <span style="margin-left: 10px;">Matplotlib</span>
       </li>
       <li>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" 
-         alt="CSS" width="20" height="20" style="vertical-align: middle;"/>
+        <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" 
+         alt="SciPy Logo" width="20" height="20" style="vertical-align: middle;">
+      <span style="margin-left: 10px;">SciPy</span>
       <span style="margin-left: 10px;">Scipy</span>
       </li>
       <li>
