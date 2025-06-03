@@ -40,7 +40,7 @@ Data scientist in training.
   </li>
   <li>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" 
-         alt="LaTeX" width="20" height="20" style="vertical-align: middle;"/>
+         alt="LaTeX" width="30" height="30" style="vertical-align: middle;"/>
     <span style="margin-left: 10px;">LaTeX</span>
   </li>
 </ul>
