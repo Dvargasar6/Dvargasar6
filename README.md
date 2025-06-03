@@ -4,7 +4,7 @@
 🔬 Passionate about science and programming.  
 📊 Data scientist in training.
 
-## 🧠 Known languages:
+## 💻 Known languages:
 
 ### 🏆 Advanced:
 <ul>
