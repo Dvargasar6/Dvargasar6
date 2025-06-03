@@ -36,6 +36,7 @@ Data scientist in training.
          alt="SciPy Logo" width="20" height="20" style="vertical-align: middle;">
       <span style="margin-left: 10px;">SciPy</span>
       </li>
+      <li>...</li>
     </ul>
   </li>
   <li>
