@@ -1,8 +1,12 @@
 ## Hi there 👋
 
 Physics enginnering and astronomy student
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Escudo_UdeA.svg" alt="UdeA Logo" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Escudo_unal_2020.svg" alt="UNAL Logo" width="100"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Escudo_UdeA.svg" alt="Universidad de Antioquia" width="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Escudo_unal_2020.svg" alt="Universidad Nacional de Colombia" width="100"/>
+</p>
+
 
 
 
